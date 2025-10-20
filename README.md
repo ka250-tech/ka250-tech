@@ -1,4 +1,5 @@
 ## Hi there 👋
+##This is my repository for CS1200
 
 <!--
 **ka250-tech/ka250-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
